@@ -1,0 +1,19 @@
+.img1{
+    height: 200px;
+    float: right;
+    margin: 8px 0 20px;
+    padding: 4px;
+}
+
+.img2{
+    float: left;
+    height: 200px;
+}
+
+.text2{
+    padding: 4px;
+}
+
+.article2{ 
+    padding-top: 100px;
+}
